@@ -6,13 +6,13 @@ This project is intended to help introduce you to open source! It's a javascript
 
 The entire project can be run by opening [`game/index.html`](game/index.html) in a browser. All of the 3rd party dependencies like Babylon are using a CDN so you do not need Node or a local developer environment. You can always play the current version of the game at flying-cube-game.netlify.app and if you create PR's against the project you'll be able to play your changes using a special link.
 
-New PR's are welcome and we've created a series of [Issues](https://github.com/runewake2/CubeFlyer/issues) you can pick up to get started. We're always looking for new Greetings in the game (shown under the game title on the main menu) and you're welcome to contribute your own - there's more info about that in [Issue #25: Add More Greetings](https://github.com/runewake2/CubeFlyer/issues/25).
+New PR's are welcome and we've created a series of [Issues](https://github.com/open-source-bootcamp/CubeFlyer/issues) you can pick up to get started. We're always looking for new Greetings in the game (shown under the game title on the main menu) and you're welcome to contribute your own.
 
 ***
 
 If you're new to contributing you can get started by forking this repository into your own GitHub account or clicking the edit (pencil ✏️) button next to the file you want to change. Make the changes in your own repository and test them, then submit a Pull Request and link the issue you are contributing towards.
 
-If you would like to submit a new feature or fix a bug that isn't listed consider [Submitting an Issue](https://github.com/runewake2/CubeFlyer/issues/new/choose) first so we can track the change!
+If you would like to submit a new feature or fix a bug that isn't listed consider [Submitting an Issue](https://github.com/open-source-bootcamp/CubeFlyer/issues/new/choose) first so we can track the change!
 
 If you're new to Babylon JS that's fine to! Here are some helpful links to help you get started and remember you can always test your changes in your own branch *or* in the Pull Request first. Babylon runs in your browser and this game should work on your Phone, Tablet or PC - you can make and test your changes from any of those devices! If something doesn't work you can enter the developer mode of your browser (F12 on Edge or Chrome) and explore the errors in the console. This developer mode also lets you insert breakpoints if you want to debug further.
 
