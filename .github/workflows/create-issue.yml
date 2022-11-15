@@ -23,3 +23,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: .github/scoring-issue.md
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/high-scoring-issue.md
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/pause-issue.md
