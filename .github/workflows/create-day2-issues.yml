@@ -1,10 +1,10 @@
-name: create issues when using template
-on: [create]
+name: Create issues for day 2 on demand.
+on: [workflow_dispatch]
 permissions:
   contents: read
   issues: write 
 jobs:
-  stuff:
+  create-issues:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -12,24 +12,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/greetings-issue.md
+          filename: .github/day2-issues/art-design-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/font-issue.md
+          filename: .github/day2-issues/ci-deploy-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/scoring-issue.md
+          filename: .github/day2-issues/config-service-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/high-scoring-issue.md
+          filename: .github/day2-issues/deploy-cloud-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/pause-issue.md
+          filename: .github/day2-issues/docs-issue.md
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          filename: .github/day2-issues/pm-issue.md
