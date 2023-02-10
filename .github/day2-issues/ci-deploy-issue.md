@@ -1,6 +1,5 @@
 ---
 title: Continuous integration and deployment
-assignees: 
 labels: enhancement
 ---
 

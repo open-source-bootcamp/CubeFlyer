@@ -1,6 +1,5 @@
 ---
 title: Need a pause between hitting an object and being able to restart
-assignees: 
 labels: bug
 ---
 

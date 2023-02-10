@@ -1,6 +1,5 @@
 ---
 title: Add a configuration service
-assignees: 
 labels: enhancement
 ---
 

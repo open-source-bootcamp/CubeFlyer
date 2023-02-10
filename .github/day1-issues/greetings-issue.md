@@ -1,6 +1,5 @@
 ---
 title: Add more greetings
-assignees: 
 labels: enhancement
 ---
 

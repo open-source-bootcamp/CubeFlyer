@@ -1,6 +1,5 @@
 ---
 title: Art and design
-assignees: 
 labels: enhancement
 ---
 

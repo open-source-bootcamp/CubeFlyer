@@ -1,6 +1,5 @@
 ---
 title: Project management
-assignees: 
 labels: enhancement
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Add High Score View
-assignees: 
 labels: enhancement
 ---
 

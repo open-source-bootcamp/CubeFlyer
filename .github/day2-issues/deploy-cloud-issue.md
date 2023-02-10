@@ -1,6 +1,5 @@
 ---
 title: Deploy to the cloud
-assignees: 
 labels: enhancement
 ---
 

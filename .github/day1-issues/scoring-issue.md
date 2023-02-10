@@ -1,6 +1,5 @@
 ---
 title: Support Player Scoring
-assignees: 
 labels: enhancement
 ---
 

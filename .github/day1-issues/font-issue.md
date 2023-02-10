@@ -1,6 +1,5 @@
 ---
 title: Change the Score Font to Something Not Comic Sans
-assignees: 
 labels: enhancement
 ---
 
