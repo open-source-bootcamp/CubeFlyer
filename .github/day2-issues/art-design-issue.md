@@ -10,7 +10,3 @@ An a **user interface** team, you have been tasked with:
 * Changing the cube for a different object
 * Improving the look of the columns
 * Making general improvements to the user interface such as color schemes, fonts, or the layout
-
-<!--
-    @runewake2 - can you add guidance here including links to relevant babylonjs docs.
--->
