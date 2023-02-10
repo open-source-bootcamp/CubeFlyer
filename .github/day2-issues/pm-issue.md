@@ -16,7 +16,7 @@ As a **project management** team, you have been tasked with:
 * Adding issue templates
 * Adding relevant protections to ensure compliance to the contribution rules
 
-> For some of these tasks, members of your team may need admin rights on the repository. The event organizer should be able to enforce this
+> For some of these tasks, members of your team may need admin rights on the repository. The project owner should be able to enforce this
 
 To help you learn some of these concepts, you can check out the following learning resources:
 
