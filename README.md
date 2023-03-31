@@ -22,3 +22,7 @@ If you're new to Babylon JS that's fine to! Here are some helpful links to help 
 We've also provided a file that should support launching from VS Code that will allow you to integrate your debugging experience there as well as a [devcontainer](https://code.visualstudio.com/docs/remote/create-dev-container) you can use to develop in if you choose with some recommended extensions pre-installed.
 
 This project is intended as a sandbox for you to learn about GitHub and contributing to Open Source. We're accepting most changes in support of that!
+
+## Aknowledgements
+
+All the code in this repo was written by [Sam Wronski](https://github.com/runewake2).
