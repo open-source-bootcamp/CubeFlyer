@@ -9,7 +9,7 @@ Let's find a way to earn points and track that!
 
 Some ideas:
 
-- Score points the longer you are able to play.
-- Score points when an obstacle is past the player (or created)
-- Add coins that can be picked up to earn points
-- Something else?
+-   Score points the longer you are able to play.
+-   Score points when an obstacle is past the player (or created)
+-   Add coins that can be picked up to earn points
+-   Something else?

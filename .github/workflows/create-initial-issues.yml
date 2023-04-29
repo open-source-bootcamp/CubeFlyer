@@ -12,54 +12,54 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day1-issues/greetings-issue.md
+          filename: .github/issues/greetings-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day1-issues/font-issue.md
+          filename: .github/issues/font-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day1-issues/scoring-issue.md
+          filename: .github/issues/scoring-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day1-issues/high-scoring-issue.md
+          filename: .github/issues/high-scoring-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day1-issues/pause-issue.md
+          filename: .github/issues/pause-issue.md
                 - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/art-design-issue.md
+          filename: .github/issues/art-design-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/ci-deploy-issue.md
+          filename: .github/issues/ci-deploy-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/config-service-issue.md
+          filename: .github/issues/config-service-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/deploy-cloud-issue.md
+          filename: .github/issues/deploy-cloud-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/docs-issue.md
+          filename: .github/issues/docs-issue.md
       - uses: JasonEtco/create-an-issue@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          filename: .github/day2-issues/pm-issue.md
+          filename: .github/issues/pm-issue.md

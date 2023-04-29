@@ -7,6 +7,6 @@ The CubeFlyer game has graphics that are somewhat basic - it is a cube flying th
 
 An a **user interface** team, you have been tasked with:
 
-* Changing the cube for a different object
-* Improving the look of the columns
-* Making general improvements to the user interface such as color schemes, fonts, or the layout
+-   Changing the cube for a different object
+-   Improving the look of the columns
+-   Making general improvements to the user interface such as color schemes, fonts, or the layout

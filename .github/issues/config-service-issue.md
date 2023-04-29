@@ -9,7 +9,7 @@ The game is fun with the current configuration of greetings and gravity, and it 
 
 As a **software engineering** team, you have been tasked with:
 
-* Creating a service that hosts a web API that you can use to retrieve configuration every time the page is refreshed
-* Adding the ability to store high scores using this web API.
+-   Creating a service that hosts a web API that you can use to retrieve configuration every time the page is refreshed
+-   Adding the ability to store high scores using this web API.
 
 How this is created is up to the team. It can be a local Python/Flask web app that stores the scores in memory, it can use a database to store the scores and configuration, use a cloud-based gaming service, or even a cloud-based serverless application. It depends on the skill level of the team, though the recommendation is to start as simple as possible.
