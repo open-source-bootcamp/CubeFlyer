@@ -12,9 +12,10 @@
 			"extensions": [
 				"dbaeumer.vscode-eslint",
 				"visualstudioexptteam.vsc",
-				"eamodio.gitlens",
 				"redhat.vscode-yaml",
-				"vsls-contrib.codetour"
+				"ritwickdey.LiveServer",
+				"MS-vsliveshare.vsliveshare",
+				"esbenp.prettier-vscode"
 			]
 		}
 	},
