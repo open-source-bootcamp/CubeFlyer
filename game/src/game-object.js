@@ -1,21 +1,15 @@
 class GameObject {
-    constructor() {
-        this.destroyed = false;
-    }
+	constructor() {
+		this.destroyed = false;
+	}
 
-    init() {
+	init() {}
 
-    }
+	destroy() {
+		this.destroyed = true;
+	}
 
-    destroy() {
-        this.destroyed = true;
-    }
+	onDestroy() {}
 
-    onDestroy() {
-
-    }
-
-    update(deltaTime) {
-        
-    }
+	update(deltaTime) {}
 }

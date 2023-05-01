@@ -9,9 +9,9 @@ As CubeFlyer grows with web APIs to manage configuration and scores, and who kno
 
 As a **cloud engineering** team, you have been tasked with:
 
-* Using a static hosting service to host the game site
-* Providing a hosted web API for configuration hosted in the cloud
-* Automating the deployment of both services when code is merged
+-   Using a static hosting service to host the game site
+-   Providing a hosted web API for configuration hosted in the cloud
+-   Automating the deployment of both services when code is merged
 
 What platform you use is up to you. Ideally you want to use a free service, and ensure you delete it after you have finished. It can take time to sign up for cloud services, and potentially need a credit card, so this task should only be undertaken by more advanced teams.
 
@@ -19,5 +19,5 @@ What platform you use is up to you. Ideally you want to use a free service, and 
 
 Some suggestions to help you learn how to do this are:
 
-* [Azure static web apps on Microsoft Learn](https://learn.microsoft.com/training/paths/azure-static-web-apps/)
-* [Build an AI web app by using Python and Flask on Microsoft Learn](https://learn.microsoft.com/training/modules/python-flask-build-ai-web-app/)
+-   [Azure static web apps on Microsoft Learn](https://learn.microsoft.com/training/paths/azure-static-web-apps/)
+-   [Build an AI web app by using Python and Flask on Microsoft Learn](https://learn.microsoft.com/training/modules/python-flask-build-ai-web-app/)

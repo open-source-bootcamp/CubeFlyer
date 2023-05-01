@@ -7,14 +7,14 @@ const scene = createScene(); //Call the createScene function from scene.js
 
 // Register a render loop to repeatedly render the scene
 engine.runRenderLoop(function () {
-    scene.render();
+	scene.render();
 });
 
 scene.registerBeforeRender(function () {
-    updateGame();
+	updateGame();
 });
 
 // Watch for browser/canvas resize events
 window.addEventListener("resize", function () {
-    engine.resize();
+	engine.resize();
 });
