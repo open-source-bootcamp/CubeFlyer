@@ -8,16 +8,16 @@ The entire project can be run by opening [`game/index.html`](game/index.html) in
 
 New PR's are welcome and we've created a series of [Issues](https://github.com/open-source-bootcamp/CubeFlyer/issues) you can pick up to get started. We're always looking for new Greetings in the game (shown under the game title on the main menu) and you're welcome to contribute your own.
 
-***
+---
 
 If you're new to contributing you can get started by forking this repository into your own GitHub account or clicking the edit (pencil ✏️) button next to the file you want to change. Make the changes in your own repository and test them, then submit a Pull Request and link the issue you are contributing towards.
 
 If you would like to submit a new feature or fix a bug that isn't listed consider [Submitting an Issue](https://github.com/open-source-bootcamp/CubeFlyer/issues/new/choose) first so we can track the change!
 
-If you're new to Babylon JS that's fine to! Here are some helpful links to help you get started and remember you can always test your changes in your own branch *or* in the Pull Request first. Babylon runs in your browser and this game should work on your Phone, Tablet or PC - you can make and test your changes from any of those devices! If something doesn't work you can enter the developer mode of your browser (F12 on Edge or Chrome) and explore the errors in the console. This developer mode also lets you insert breakpoints if you want to debug further.
+If you're new to Babylon JS that's fine to! Here are some helpful links to help you get started and remember you can always test your changes in your own branch _or_ in the Pull Request first. Babylon runs in your browser and this game should work on your Phone, Tablet or PC - you can make and test your changes from any of those devices! If something doesn't work you can enter the developer mode of your browser (F12 on Edge or Chrome) and explore the errors in the console. This developer mode also lets you insert breakpoints if you want to debug further.
 
-* The [Babylon.JS Playground](https://playground.babylonjs.com/) will let you explore different community samples to learn how Babylon works!
-* The [Babylon.JS API](https://doc.babylonjs.com/typedoc/modules/BABYLON) has documentation that can help you understand the API.
+-   The [Babylon.JS Playground](https://playground.babylonjs.com/) will let you explore different community samples to learn how Babylon works!
+-   The [Babylon.JS API](https://doc.babylonjs.com/typedoc/modules/BABYLON) has documentation that can help you understand the API.
 
 We've also provided a file that should support launching from VS Code that will allow you to integrate your debugging experience there as well as a [devcontainer](https://code.visualstudio.com/docs/remote/create-dev-container) you can use to develop in if you choose with some recommended extensions pre-installed.
 

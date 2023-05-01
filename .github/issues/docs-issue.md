@@ -9,9 +9,9 @@ The CubeFlyer project is lacking in good documentation.
 
 As a **documentation** team, you have been tasked with actually creating documentation. This includes:
 
-* A markdown file with a guide to running the project locally
-* Documentation on the structure of the code, also as a markdown file
-* Documentation for the features being added by other teams
+-   A markdown file with a guide to running the project locally
+-   Documentation on the structure of the code, also as a markdown file
+-   Documentation for the features being added by other teams
 
 This documentation should all be in markdown. To add documentation for features being added by other teams, you will need to collaborate with those teams to generate the documentation in tandem. This will be good learning for the other teams to help cement the idea that documentation is a continuous process that includes everyone.
 
