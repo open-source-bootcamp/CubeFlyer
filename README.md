@@ -2,7 +2,7 @@
 
 Hi!
 
-This project is intended to help introduce you to Open Source as part of [MLH 2023 Global Hack Week: GAMES](https://organize.mlh.io/participants/events/9153-global-hack-week-game-week)! It's a JavaScript based 3D game built with [Babylon.JS](https://github.com/BabylonJS) that lets you fly a Cube through a set of obstacles.
+This project is intended to help introduce you to Open Source as part of [MLH 2023 Global Hack Week: GAMES](https://organize.mlh.io/participants/events/9153-global-hack-week-game-week)! It's a JavaScript-based 3D game built with [Babylon.JS](https://github.com/BabylonJS) that lets you fly a Cube through a set of obstacles.
 
 When you create a repository from this template, a series of [Issues](https://docs.github.com/en/issues) will be generated that you can pick up to get started.
 
