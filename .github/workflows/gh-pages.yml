@@ -1,4 +1,4 @@
-name: Build and Deploy
+name: Deploy to GitHub Pages
 on: [push]
 
 permissions:
@@ -15,3 +15,16 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: game
+
+      # Comment with the address that the game is deployed to.
+      - name: Comment 🗣️
+        uses: actions/github-script@v3
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: `Deployed to: https://<username>.github.io/<repo-name>`
+            })
