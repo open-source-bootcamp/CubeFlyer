@@ -63,3 +63,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           filename: .github/issues/pm-issue.md
+  always_job:
+    name: Always run job
+    runs-on: ubuntu-latest
+    steps:
+      - name: Always run
+        run: echo "This will always run to prevent notificaitons from GitHub, see https://github.com/orgs/community/discussions/25146"
