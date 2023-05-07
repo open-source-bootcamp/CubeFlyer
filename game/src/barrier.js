@@ -57,7 +57,11 @@ class Barrier extends GameObject {
             if (playerHeight + 5.5 > this.ceilingBox.position.y || // 5.5 is the half the height of the box + half the height of the player
                 playerHeight - 5.5 < this.floorBox.position.y) {
                     return true;
-            }
+            }else{
+		if (this.location > -1 && this.location < -0.975){
+			addScore(1);
+			}
+		}
         }
         return false;
     }
