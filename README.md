@@ -1,5 +1,7 @@
 # The Flying Cube Game!
 
+> If you are accessing this repo from the [Open source bootcamp org](https://github.com/open-source-bootcamp) then please do not raise any PRs against this repo - this is a template designed to be used in events like the open source bootcamp, and you should raise issues against repos created during your event using this as a template.
+
 Hi!
 
 This project is intended to help introduce you to open source! It's a javascript based 3D game built with [Babylon.JS](https://github.com/BabylonJS) that lets you fly a Cube through a set of obstacles.
