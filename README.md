@@ -1,6 +1,6 @@
 # The Flying Cube Game!
 
-> If you are accessing this repo from the [Open source bootcamp org](https://github.com/open-source-bootcamp) then please do not raise any PRs against this repo - this is a template designed to be used in events like the open source bootcamp, and you should raise issues against repos created during your event using this as a template.
+> If you are accessing this repo from the [Open source bootcamp org](https://github.com/open-source-bootcamp) then please do not raise any PRs against this repo - this is a template designed to be used in events like the open source bootcamp, and you should raise issues against repos created during your event using this as a template. Only riase issues if they would enhance the ability to use this as a template repo.
 
 Hi!
 
